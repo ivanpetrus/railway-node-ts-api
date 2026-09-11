@@ -2,7 +2,7 @@
 
 Minimal Node/TypeScript Express API that listens on `process.env.PORT` and exposes `GET /health`.
 
-Companion repo for the Dev.to post: [Deploy a Node/TypeScript API to Railway in 15 minutes](https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-5gb9).
+Companion repo for the Dev.to post: [Deploy a Node/TypeScript API to Railway in 15 minutes](https://dev.to/ivanpetrus/deploy-a-nodetypescript-api-to-railway-in-15-minutes-with-a-worker-friendly-setup-1o64).
 
 ## Local
 
